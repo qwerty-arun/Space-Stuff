@@ -1,0 +1,12 @@
+# Things that I have learnt so faf
+- Lagrange Points: Points of stability around two massive bodies where there are enhanced regions of attraction and repulsion
+- Halo Orbit: A 3D orbit around a Lagrange Point in a three body system (Aditya L1 mission of ISRO)
+- Trajectory Correction Maneuvers (TCM): Adjust Trajectory according to the desired one
+- Sun - centered inertial frame V/S Sun-Jupiter rotating frame (Sun and Jupiter fixed on the X-axis for example). We can visualize various orbits of comets
+- Interplanetary transport Network: Low energy passageways
+- Low Energy Transfer to the moon: 20% less fuel but more time . [Tube hopping](https://www.whydomath.org/node/space/math_intersect.html)
+- Book Reference: Analytical Mechanics Space Systems
+- Intro to Euler Angles. In common language: yaw, pitch and roll.
+- Singular coordinates problem in 3D coordinates and how the quaternions solves them.
+- Attitude Determination and Control Systems (ADCS)
+- Reference Frames: Set of 3 orthonormal unit vectors that define a right-handed coordinate system. Example: i,j and k
